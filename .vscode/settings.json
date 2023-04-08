@@ -1,3 +1,5 @@
 {
-    "jupyter.exportWithOutputEnabled": true
+    "jupyter.exportWithOutputEnabled": true,
+    "notebook.lineNumbers": "on",
+    "notebook.formatOnSave.enabled": true
 }
