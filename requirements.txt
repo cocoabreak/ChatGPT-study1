@@ -1,0 +1,12 @@
+pipdeptree
+pip-licenses
+ipykernel
+
+pycodestyle
+autopep8
+isort
+
+python-dotenv
+openai
+tiktoken
+pandas
