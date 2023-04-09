@@ -1,11 +1,12 @@
 pipdeptree
 pip-licenses
-python-dotenv
 ipykernel
 
 pycodestyle
 autopep8
+isort
 
+python-dotenv
 openai
 tiktoken
 pandas

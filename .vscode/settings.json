@@ -1,5 +1,8 @@
 {
     "jupyter.exportWithOutputEnabled": true,
     "notebook.lineNumbers": "on",
-    "notebook.formatOnSave.enabled": true
+    "notebook.formatOnSave.enabled": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
 }
